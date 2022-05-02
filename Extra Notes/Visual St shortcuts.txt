@@ -1,0 +1,3 @@
+ctl+?: comment something out 
+!+tab: gives you the basic structure for html
+shift+alt+up-arrow: copies a line of code 
