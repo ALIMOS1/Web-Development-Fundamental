@@ -1,3 +1,9 @@
 ctl+?: comment something out 
+
 !+tab: gives you the basic structure for html
+
 shift+alt+up-arrow: copies a line of code 
+
+ctrl+eneter : if you want to go to the next line from anywhere.
+
+lorem20 : to generate a dummy text. 
